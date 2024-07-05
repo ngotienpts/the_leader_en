@@ -3548,6 +3548,10 @@ img {
     content: none;
   }
 
+  .detail-title {
+    font-size: 32px;
+  }
+
   .detail-content .articles .article .article__title {
     font-size: 16px;
     font-family: "Mulish";
@@ -3556,6 +3560,26 @@ img {
   .detail-content .articles .article .time-public,
 .detail-content .articles .article .article__des {
     display: none;
+  }
+  .detail-content > h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  .detail-content > h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .detail-content > h4 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  .detail-content > h5 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .detail-content > h6 {
+    font-size: 20px;
+    margin-bottom: 20px;
   }
 
   .detail-tags {
